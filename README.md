@@ -16,16 +16,16 @@
 ---
 
 ## Overview
-An end-to-end AI-powered system for real-time human detection and occupancy tracking using Computer Vision (OpenCV) and Deep Learning. Features automated counting and entry/exit monitoring.
+An end-to-end AI-powered system for real-time human detection and occupancy tracking using Computer Vision (OpenCV) and Deep Learning. The system addresses the critical need for automated, high-accuracy monitoring in restricted areas, providing a robust and scalable solution for real-time entry/exit analysis and facility management.
 
 ---
 
 ## Core AI Concepts & Technologies
 
 * **Domain:** Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision.
-* **Deep Learning Models:** Integrated **OpenCV's DNN module** for accurate and robust person detection.
+* **Deep Learning Models:** Integrated **OpenCV's DNN module** for accurate and robust person detection, optimized for real-time inference.
 * **Tracking Algorithm:** Implementation of **Centroid Tracking**, maintaining unique IDs across video frames to ensure accurate counting even in challenging conditions.
-* **Logic-Based Counting:** Vector-based analysis to determine entry/exit direction (In/Out) and calculate real-time building occupancy.
+* **Logic-Based Counting:** Advanced vector-based analysis to determine entry/exit direction (In/Out) by analyzing the displacement of centroids relative to a pre-defined virtual boundary.
 
 ---
 
@@ -71,7 +71,7 @@ This diagram illustrates the logic from the initial video capture to the final d
 
 ## Project Structure
 
-A clean and modular directory structure is maintained to ensure scalability and ease of deployment.
+A clean and modular directory structure is maintained to ensure scalability, maintainability, and ease of deployment.
 
 | **Repository Filesystem** | **Directory Breakdown** |
 | :--- | :--- |
@@ -96,7 +96,7 @@ A clean and modular directory structure is maintained to ensure scalability and 
 ---
 
 ## Key Results
-The system successfully monitors multiple access points, providing a synchronized **Grand Total** of people within a restricted area, a critical feature for safety and security management. It was developed and evaluated at the **Hellenic Air Force Academy**.
+The system successfully monitors multiple access points, providing a synchronized **Grand Total** of people within a restricted area. This feature is critical for safety protocols, security auditing, and dynamic resource allocation. The project was developed and evaluated at the **Hellenic Air Force Academy**, receiving high marks for technical execution and real-world applicability.
 
 ---
 
