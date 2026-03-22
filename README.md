@@ -24,7 +24,7 @@ The system processes each frame to detect human figures and assign unique tracki
 
 | **Initial Frame Detection** | **Unique ID Assignment** |
 | :--- | :--- |
-| ![Frame Detection](images/Screenshot%20(127).jpg) | ![ID Tracking](images/Screenshot%20(122).jpg) |
+| ![Frame Detection](https://github.com/RizosConstantinos/AI_Identification_System/blob/main/images/Screenshot%20(127).png) | ![ID Tracking](images/Screenshot%20(122).jpg) |
 | *Step 1: Analyzing the input stream for human features using Deep Learning.* | *Step 2: Assigning persistent IDs to track movement across the scene.* |
 
 ---
