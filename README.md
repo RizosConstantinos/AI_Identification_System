@@ -3,6 +3,18 @@
 
 ---
 
+## Table of Contents
+* [Overview](#overview)
+* [Core AI Concepts & Technologies](#core-ai-concepts--technologies)
+* [System in Action (Showcase)](#system-in-action-showcase)
+* [Architecture & System Logic](#architecture--system-logic)
+* [Project Structure](#project-structure)
+* [Installation & Usage](#installation--usage)
+* [Key Results](#key-results)
+* [Author](#author)
+
+---
+
 ## Overview
 An end-to-end AI-powered system for real-time human detection and occupancy tracking using Computer Vision (OpenCV) and Deep Learning. Features automated counting and entry/exit monitoring.
 
@@ -55,7 +67,6 @@ This diagram illustrates the logic from the initial video capture to the final d
 | :--- | :--- |
 | ![Rasberry Pi - Programming](https://github.com/RizosConstantinos/AI_Identification_System/blob/main/images/Screenshot%20(52).png) | ![Final System](https://github.com/RizosConstantinos/AI_Identification_System/blob/main/images/Screenshot%20(53).png) |
 
-
 ---
 
 ## Project Structure
@@ -85,16 +96,16 @@ A clean and modular directory structure is maintained to ensure scalability and 
 ---
 
 ## Key Results
-The system successfully monitors multiple access points, providing a synchronized **Grand Total** of people within a restricted area, a critical feature for safety and security management.
+The system successfully monitors multiple access points, providing a synchronized **Grand Total** of people within a restricted area, a critical feature for safety and security management. It was developed and evaluated at the **Hellenic Air Force Academy**.
 
 ---
 
 ## Author
 
-**Rizos Constantinos**  
-- LinkedIn: www.linkedin.com/in/constantinos-rizos-0589b5254  
-- GitHub: https://github.com/RizosConstantinos
-  
+**Rizos Constantinos**
+- LinkedIn: [www.linkedin.com/in/constantinos-rizos-0589b5254](http://www.linkedin.com/in/constantinos-rizos-0589b5254)
+- GitHub: [https://github.com/RizosConstantinos](https://github.com/RizosConstantinos)
+
 ---
 
-## ⭐ If you found this useful, feel free to star the repo!
+## If you found this useful, feel free to star the repo!
